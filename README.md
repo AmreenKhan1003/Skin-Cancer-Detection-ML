@@ -1,1 +1,2 @@
 # Skin-Cancer-Detection-ML
+Computer Vision can play a vital role in medical Image diagnosis which has been proved by the existing systems. In this article, we are analysing all the seven types of skin cancers, they are Melanoma (MEL), Melanomic Neves (NV), Basal Cell Carcinoma (BCC), Actinic Keratosis (AKIEC), Benign Keratosis (BKL), Dermatofibroma (DF), Vascular Lesion (VASC) to get the better understanding of how to build the CNN (Convolutional Neural Network) model which will perform image processing on various image dataset of skin cancer to analyze and detect its type.
